@@ -11,3 +11,6 @@ The main objective of **RentGala** is to empower customers to rent second-hand d
 1. ML Model - Python libraries such as LightGBM, Tensorflow, keras and Sklearn
 2. Streamlit for frontend of the application
 3. SQL for backend and database
+   
+### Presentation
+[![Presentation](https://img.youtube.com/vi/fwtEdoC6Xwo/3.jpg)](https://www.youtube.com/watch?v=fwtEdoC6Xwo)
